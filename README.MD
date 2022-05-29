@@ -17,8 +17,8 @@ These demos are powered by [PyABSA](https://github.com/yangheng95/PyABSA), which
 - [Autocuda](https://github.com/yangheng95/autocuda): Help your model to find available cuda device without manually `nvidia-smi`
 - [Metric-Visualizer](https://github.com/yangheng95/metric_visualizer): Help you to easily make paper beautiful plots
 - [ABSADatasets DPT](https://github.com/yangheng95/ABSADatasets/tree/v1.2/DPT): This is a web-based dataset annotation tool which can help you easily make an ABSA dataset and train it using PyABSA.
-- [More are on the way] 
 - [Text Augmentation Tool]: it can aceieve 1-2% or at most 5% absoulte improvement based on existing datasets and models, it will be available after peer-review 
+- [More are on the way] 
 
 ## About Me
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=yangheng95&show_icons=true" alt="yangheng95" />
