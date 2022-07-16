@@ -19,3 +19,10 @@ These demos are powered by [PyABSA](https://github.com/yangheng95/PyABSA), which
 - [ABSADatasets DPT](https://github.com/yangheng95/ABSADatasets/tree/v1.2/DPT): This is a web-based dataset annotation tool that can help you easily make an ABSA dataset and train it using PyABSA.
 - [Text Augmentation Tool](https://github.com/yangheng95/BoostAug): it can achieve 1-2% or at most 5% absolute improvement based on existing datasets and models, it will be available after peer-review 
 - [More are on the way]
+
+## About Me
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=yangheng95&show_icons=true" alt="yangheng95" />
+  
+## Visitors 
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yangheng95" alt="yangheng95" /> </p>
