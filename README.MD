@@ -1,6 +1,6 @@
 ## Hi, there!
 
-I am a PhD student in University of Exeter, I am current working on NLP adversarial attack, etc.
+I am a PhD student at the University of Exeter. I am currently working on NLP adversarial attacks and defense, etc.
 
 ## Here are some demos of my previous works you can try on Huggingface Space:
 - [Aspect term extraction & sentiment classification](https://huggingface.co/spaces/yangheng/PyABSA-ATEPC) (English,
