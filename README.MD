@@ -2,12 +2,12 @@
 
 I am a PhD student at the University of Exeter. I am currently working on NLP adversarial attacks and defense, etc.
 
-## Here are some demos of my previous works you can try on Huggingface Space:
+## Here are some demos you can try on Huggingface Space:
+- SuperResolutionAnimeDiffusion](https://huggingface.co/spaces/yangheng/Super-Resolution-Anime-Diffusion)
 - [Aspect term extraction & sentiment classification](https://huggingface.co/spaces/yangheng/PyABSA-ATEPC) (English,
   Chinese, Arabic, Dutch, French, Russian, Spanish, Turkish, etc.)
 - [Aspect-based sentiment classification (Multilingual)](https://huggingface.co/spaces/yangheng/PyABSA-APC) （English,
   Chinese, etc.）
-- [方面术语提取和情感分类](https://huggingface.co/spaces/yangheng/PyABSA-ATEPC-Chinese) （中文, etc.）
 
 These demos are powered by [PyABSA](https://github.com/yangheng95/PyABSA), which is one of the most easy-to-use open-source tools for aspect-based sentiment analysis(a.k.a ABSA). PyABSA contains our state-of-the-art models for ABSA, which can be found on [Paperswithcode](https://paperswithcode.com/sota/aspect-based-sentiment-analysis-on-semeval).
 
