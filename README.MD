@@ -3,7 +3,7 @@
 I am a PhD student at the University of Exeter. I am currently working on NLP adversarial attacks and defense, etc.
 
 ## Here are some demos you can try on Huggingface Space:
-- SuperResolutionAnimeDiffusion](https://huggingface.co/spaces/yangheng/Super-Resolution-Anime-Diffusion)
+- [SuperResolutionAnimeDiffusion](https://huggingface.co/spaces/yangheng/Super-Resolution-Anime-Diffusion)
 - [Aspect term extraction & sentiment classification](https://huggingface.co/spaces/yangheng/PyABSA-ATEPC) (English,
   Chinese, Arabic, Dutch, French, Russian, Spanish, Turkish, etc.)
 - [Aspect-based sentiment classification (Multilingual)](https://huggingface.co/spaces/yangheng/PyABSA-APC) （English,
