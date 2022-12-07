@@ -19,6 +19,7 @@ These demos are powered by [PyABSA](https://github.com/yangheng95/PyABSA), which
 - [ABSADatasets DPT](https://github.com/yangheng95/ABSADatasets/tree/v1.2/DPT): This is a web-based dataset annotation tool that can help you easily make an ABSA dataset and train it using PyABSA.
 - [Text Augmentation Tool](https://github.com/yangheng95/BoostAug): it can achieve 1-2% or at most 5% absolute improvement based on existing datasets and models [![Downloads](https://pepy.tech/badge/boostaug)](https://pepy.tech/project/boostaug)
 - [Adversarial defense](https://github.com/yangheng95/TAD) under submission
+- [Image Resolution Magnifier]([https://github.com/yangheng95/Waifu2X-Image-Scale](https://github.com/yangheng95/Waifu2X-Image-Scale)) To magnify your image, currently for animes only
 - [More are on the way]
 
 ## About Me
