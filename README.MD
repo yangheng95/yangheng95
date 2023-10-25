@@ -1,4 +1,4 @@
-# Hi there!
+# [About Me](https://yangheng95.github.io)
 
 I am a PhD student at the University of Exeter. My research interests include natural language processing, computer vision, bioinformatics (RNA modeling), etc. Please find the details of my study in the following sections.
 
