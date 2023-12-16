@@ -15,17 +15,17 @@ Find me on [GitHub](https://github.com/yangheng95) or [Google Scholar](https://s
 
 ## First-author Publications
 
-**[CCF A]** **_H Yang_**, K Li. [Boosting Text Augmentation via Hybrid Instance Filtering Framework](https://aclanthology.org/2023.findings-acl.105.pdf) (ACL 2023 **Findings**)
+**ACL 2023 Findings** **_H Yang_**, K Li. [Boosting Text Augmentation via Hybrid Instance Filtering Framework](https://aclanthology.org/2023.findings-acl.105.pdf)
 
-**[CCF B]** **_H Yang_**, K Li. [InstOptima: Evolutionary Multi-objective Instruction Optimization via Large Language Model-based Instruction Operators](https://openreview.net/forum?id=8oy8hUeem9) (EMNLP 2023 **Findings**)
+**EMNLP 2023 Findings** **_H Yang_**, K Li. [InstOptima: Evolutionary Multi-objective Instruction Optimization via Large Language Model-based Instruction Operators](https://openreview.net/forum?id=8oy8hUeem9) 
 
-**[CCF B]** **_H Yang_**, K Li. [PyABSA: A Modularized Framework for Reproducible Aspect-based Sentiment Analysis](https://dl.acm.org/doi/10.1145/3583780.3614752) (CIKM 2023)
+**CIKM 2023** **_H Yang_**, K Li. [PyABSA: A Modularized Framework for Reproducible Aspect-based Sentiment Analysis](https://dl.acm.org/doi/10.1145/3583780.3614752) 
 
-**[CCF A]** K Li, **_H Yang_**, W Visser. [Evolutionary Multi-Task Injection Testing on Web Application Firewalls](https://arxiv.org/abs/2206.05743) (IEEE TSE 2023)
+**IEEE Trans. Softw. Eng.** K Li, **_H Yang_**, W Visser. [Evolutionary Multi-Task Injection Testing on Web Application Firewalls](https://arxiv.org/abs/2206.05743)
 
-**[CCF C]** B Zeng, **_H Yang_**, S Liu, M Xu. [Learning for target-dependent sentiment based on local context-aware embedding](https://link.springer.com/article/10.1007/s11227-021-04047-1) (The Journal of Supercomputing 2022)
+**J Supercomput** B Zeng, **_H Yang_**, S Liu, M Xu. [Learning for target-dependent sentiment based on local context-aware embedding](https://link.springer.com/article/10.1007/s11227-021-04047-1) 
 
-**[CCF C]** **_H Yang_**, B Zeng, JH Yang, Y Song, R Xu. [A multi-task learning model for Chinese-oriented aspect polarity classification and aspect term extraction](https://www.sciencedirect.com/science/article/abs/pii/S0925231220312534) (Neurocomputing 2021).
+**Neurocomputing** **_H Yang_**, B Zeng, JH Yang, Y Song, R Xu. [A multi-task learning model for Chinese-oriented aspect polarity classification and aspect term extraction](https://www.sciencedirect.com/science/article/abs/pii/S0925231220312534) 
 
 **_H Yang_**, K Li. [Reactive Perturbation Defocusing for Textual Adversarial Defense](https://openreview.net/forum?id=h2jvdYswot) (Preprint 2023)
 
@@ -37,11 +37,16 @@ B Zeng, **_H Yang_**, R Xu, W Zhou, X Han. [LCF: A local context focus mechanism
 
 # Co-authored Publications
 
-**[CCF C]** M Xu, B Zeng, **_H Yang_**, J Chi, J Chen, H Liu. [Combining dynamic local context focus and dependency cluster attention for aspect-level sentiment classification](https://www.sciencedirect.com/science/article/abs/pii/S0925231221019391) (Neurocomputing 2022)
+**Neurocomputing** M Xu, B Zeng, **_H Yang_**, J Chi, J Chen, H Liu. [Combining dynamic local context focus and dependency cluster attention for aspect-level sentiment classification](https://www.sciencedirect.com/science/article/abs/pii/S0925231221019391)
 
-## Toy Demos:
-### [Aspect-based sentiment analysis (ABSA)](https://huggingface.co/spaces/yangheng/PyABSA)
-### [Super-resolution anime diffusion](https://huggingface.co/spaces/yangheng/Super-Resolution-Anime-Diffusion)
+## Contributions on Huggingface:
+### Online Demos on Huggingface Space
+ - [Aspect-based sentiment analysis (ABSA)](https://huggingface.co/spaces/yangheng/PyABSA)
+ - [Super-resolution anime diffusion](https://huggingface.co/spaces/yangheng/Super-Resolution-Anime-Diffusion)
+
+### Pretrained Models on Huggingface Space
+ - [ABSA Model:yangheng/deberta-v3-base-absa-v1.1](https://huggingface.co/yangheng/deberta-v3-base-absa-v1.1)
+ - [ABSA Model:yangheng/deberta-v3-large-absa-v1.1](https://huggingface.co/yangheng/deberta-v3-large-absa-v1.1) 
 
 ## Open-source Repositories
 - [![Downloads](https://pepy.tech/badge/pyabsa)](https://pepy.tech/project/pyabsa) [PyABSA](https://github.com/yangheng95/PyABSA): State-of-the-art models and simplified interface for ABSA  
