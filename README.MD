@@ -58,16 +58,6 @@ B Zeng, **_H Yang_**, R Xu, W Zhou, X Han. [LCF: A local context focus mechanism
 - [ABSA DPT](https://github.com/yangheng95/ABSADatasets/tree/v1.2/DPT): This is a web-based ABSA dataset annotation tool that can help you easily make an ABSA dataset and train it using PyABSA.
 - [More works are going to be published]
 
-## Education
-
-- **2021.9 - 2025.9** CS PhD student in AI/NLP, University of Exeter, UK
-- **2018.9 - 2021.6** CS Master in AI/NLP, South China Normal University, China
-- **2014.9 - 2018.6** CS Bachelor, Yangtze University, China
-
-## Awards
-
-- **2020.9** Chinese National Graduate Scholarship
-- **2018.6** Outstanding Graduate of Yangtze University
 
 ## Community Contribution
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=yangheng95&show_icons=true" alt="yangheng95" />
