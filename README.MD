@@ -2,14 +2,14 @@
 
 ## Hi there!
 
-I am a PhD student at the University of Exeter. My research interests include natural language processing, computer vision, bioinformatics (RNA modeling), etc. Please find the details of my study in the following sections.
+I am a PhD student at the University of Exeter. My research interests include biological sequence modeling, natural language processing, computer vision etc. Please find the details of my study in the following sections.
 Find me on [GitHub](https://github.com/yangheng95) or [Google Scholar](https://scholar.google.com/citations?hl=en&user=NPq5a_0AAAAJ&view_op=list_works&sortby=pubdate).
 
 ## Research Topics
 
+- **bio-RNA Sequence pretraining & modeling**
 - **Textual Adversarial Attack/Defense**
 - **Sentiment (Coherency) Analysis**
-- **bio-RNA Sequence pretraining & modeling**
 - **Code language modeling**
 - **Diffusion models**
 
@@ -50,6 +50,7 @@ B Zeng, **_H Yang_**, R Xu, W Zhou, X Han. [LCF: A local context focus mechanism
  - [ABSA Model:yangheng/deberta-v3-large-absa-v1.1](https://huggingface.co/yangheng/deberta-v3-large-absa-v1.1) 
 
 ## Open-source Repositories
+- [![Downloads](https://static.pepy.tech/badge/OmniGenome)](https://pepy.tech/project/OmniGenome)
 - [![Downloads](https://pepy.tech/badge/pyabsa)](https://pepy.tech/project/pyabsa) [PyABSA](https://github.com/yangheng95/PyABSA): State-of-the-art models and simplified interface for ABSA  
 - [![Downloads](https://pepy.tech/badge/findfile)](https://pepy.tech/project/findfile) [FindFile](https://github.com/yangheng95/findfile): A simple tool to help find your file wherever it locates 
 - [![Downloads](https://pepy.tech/badge/metric-visualizer)](https://pepy.tech/project/metric-visualizer) [Metric-Visualizer](https://github.com/yangheng95/metric_visualizer): Help you to easily and quickly make academic plots, e.g., box and trajectory plots 
