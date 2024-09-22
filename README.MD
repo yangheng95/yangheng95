@@ -11,9 +11,13 @@ Find me on [GitHub](https://github.com/yangheng95) or [Google Scholar](https://s
 - **Textual Adversarial Attack/Defense**
 - **Sentiment (Coherency) Analysis**
 - **Code language modeling**
-- **Diffusion models**
 
 ## First-author Publications
+
+**EMNLP 2024 Main** **_H Yang_**, K Li. The Best Defense is Attack: Repairing Semantics in Textual Adversarial Examples
+
+**EMNLP 2024 Findings** **_H Yang_**, K Li. MP-RNA: Unleashing Multi-species RNA Foundation Model via Calibrated Secondary Structure Prediction
+
 **EACL 2024 Findings** **_H Yang_**, K Li. [Improving Implicit Sentiment Learning via Local Sentiment Aggregation](https://arxiv.org/abs/2110.08604)
 
 **ACL 2023 Findings** **_H Yang_**, K Li. [Boosting Text Augmentation via Hybrid Instance Filtering Framework](https://aclanthology.org/2023.findings-acl.105.pdf)
@@ -24,21 +28,9 @@ Find me on [GitHub](https://github.com/yangheng95) or [Google Scholar](https://s
 
 **IEEE Trans. Softw. Eng.** K Li, **_H Yang_**, W Visser. [Evolutionary Multi-Task Injection Testing on Web Application Firewalls](https://arxiv.org/abs/2206.05743)
 
-**J Supercomput** B Zeng, **_H Yang_**, S Liu, M Xu. [Learning for target-dependent sentiment based on local context-aware embedding](https://link.springer.com/article/10.1007/s11227-021-04047-1) 
-
 **Neurocomputing** **_H Yang_**, B Zeng, JH Yang, Y Song, R Xu. [A multi-task learning model for Chinese-oriented aspect polarity classification and aspect term extraction](https://www.sciencedirect.com/science/article/abs/pii/S0925231220312534) 
 
 **_H Yang_**, K Li. [Reactive Perturbation Defocusing for Textual Adversarial Defense](https://openreview.net/forum?id=h2jvdYswot) (Preprint 2023)
-
-
-
-B Zeng, **_H Yang_**, R Xu, W Zhou, X Han. [LCF: A local context focus mechanism for aspect-based sentiment classification](https://www.semanticscholar.org/paper/LCF%3A-A-Local-Context-Focus-Mechanism-for-Sentiment-Zeng-Yang/67d5ab20d15518dc876b0732a768a88262635425) (Applied Sciences 2019).
-
-**K Li is my PhD's supervisor. B Zeng was my master's supervisor.**
-
-# Co-authored Publications
-
-**Neurocomputing** M Xu, B Zeng, **_H Yang_**, J Chi, J Chen, H Liu. [Combining dynamic local context focus and dependency cluster attention for aspect-level sentiment classification](https://www.sciencedirect.com/science/article/abs/pii/S0925231221019391)
 
 ## Contributions on Huggingface:
 ### Online Demos on Huggingface Space
