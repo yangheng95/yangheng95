@@ -14,23 +14,21 @@ Find me on [GitHub](https://github.com/yangheng95) or [Google Scholar](https://s
 
 ## First-author Publications
 
-**EMNLP 2024 Main** **_H Yang_**, K Li. The Best Defense is Attack: Repairing Semantics in Textual Adversarial Examples
+**_H Yang_**, K Li. The Best Defense is Attack: Repairing Semantics in Textual Adversarial Examples **EMNLP 2024**
 
-**EMNLP 2024 Findings** **_H Yang_**, K Li. MP-RNA: Unleashing Multi-species RNA Foundation Model via Calibrated Secondary Structure Prediction
+**_H Yang_**, K Li. MP-RNA: Unleashing Multi-species RNA Foundation Model via Calibrated Secondary Structure Prediction **EMNLP 2024** 
 
-**EACL 2024 Findings** **_H Yang_**, K Li. [Improving Implicit Sentiment Learning via Local Sentiment Aggregation](https://arxiv.org/abs/2110.08604)
+**_H Yang_**, K Li. [Improving Implicit Sentiment Learning via Local Sentiment Aggregation](https://arxiv.org/abs/2110.08604) **EACL 2024** 
 
-**ACL 2023 Findings** **_H Yang_**, K Li. [Boosting Text Augmentation via Hybrid Instance Filtering Framework](https://aclanthology.org/2023.findings-acl.105.pdf)
+**_H Yang_**, K Li. [Boosting Text Augmentation via Hybrid Instance Filtering Framework](https://aclanthology.org/2023.findings-acl.105.pdf) **ACL 2023**
 
-**EMNLP 2023 Findings** **_H Yang_**, K Li. [InstOptima: Evolutionary Multi-objective Instruction Optimization via Large Language Model-based Instruction Operators](https://openreview.net/forum?id=8oy8hUeem9) 
+**_H Yang_**, K Li. [InstOptima: Evolutionary Multi-objective Instruction Optimization via Large Language Model-based Instruction Operators](https://openreview.net/forum?id=8oy8hUeem9) **EMNLP 2023** 
 
-**CIKM 2023** **_H Yang_**, K Li. [PyABSA: A Modularized Framework for Reproducible Aspect-based Sentiment Analysis](https://dl.acm.org/doi/10.1145/3583780.3614752) 
+**_H Yang_**, K Li. [PyABSA: A Modularized Framework for Reproducible Aspect-based Sentiment Analysis](https://dl.acm.org/doi/10.1145/3583780.3614752) **CIKM 2023** 
 
-**IEEE Trans. Softw. Eng.** K Li, **_H Yang_**, W Visser. [Evolutionary Multi-Task Injection Testing on Web Application Firewalls](https://arxiv.org/abs/2206.05743)
+K Li, **_H Yang_**, W Visser. [Evolutionary Multi-Task Injection Testing on Web Application Firewalls](https://arxiv.org/abs/2206.05743) **IEEE Trans. Softw. Eng.**
 
-**Neurocomputing** **_H Yang_**, B Zeng, JH Yang, Y Song, R Xu. [A multi-task learning model for Chinese-oriented aspect polarity classification and aspect term extraction](https://www.sciencedirect.com/science/article/abs/pii/S0925231220312534) 
-
-**_H Yang_**, K Li. [Reactive Perturbation Defocusing for Textual Adversarial Defense](https://openreview.net/forum?id=h2jvdYswot) (Preprint 2023)
+**_H Yang_**, B Zeng, JH Yang, Y Song, R Xu. [A multi-task learning model for Chinese-oriented aspect polarity classification and aspect term extraction](https://www.sciencedirect.com/science/article/abs/pii/S0925231220312534) **Neurocomputing** 
 
 ## Contributions on Huggingface:
 ### Online Demos on Huggingface Space
