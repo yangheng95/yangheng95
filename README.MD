@@ -14,6 +14,8 @@ Find me on [GitHub](https://github.com/yangheng95) or [Google Scholar](https://s
 
 ## First-author Publications
 
+**_H Yang_**, Jack Cole, K Li. [OmniGenBench: Automating Large-scale in-silico Benchmarking for Genomic Foundation Models](https://arxiv.org/abs/2410.01784)
+
 **_H Yang_**, K Li. The Best Defense is Attack: Repairing Semantics in Textual Adversarial Examples **EMNLP 2024**
 
 **_H Yang_**, K Li. MP-RNA: Unleashing Multi-species RNA Foundation Model via Calibrated Secondary Structure Prediction **EMNLP 2024** 
