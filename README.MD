@@ -75,15 +75,12 @@ A modularized framework for Aspect-Based Sentiment Analysis (ABSA). PyABSA simpl
 
 - **[DeBERTa-v3 Base ABSA](https://huggingface.co/yangheng/deberta-v3-base-absa-v1.1)**  
   A model for aspect-based sentiment analysis (ABSA), trained with over 30k samples for tasks like sentiment classification.  
-  📦 0 downloads/month
 
 - **[PlantRNA-FM](https://huggingface.co/yangheng/PlantRNA-FM)**  
   An interpretable RNA foundation model for exploring functional RNA motifs in plants. Pre-trained on data from over 1,124 plant species.  
-  📦 0 downloads/month
 
 - **[OmniGenome](https://huggingface.co/yangheng/OmniGenome-52M)**  
   A genomic model aimed at biological sequence modeling, part of the OmniGenome project.  
-  📦 0 downloads/month
 
 ---
 
