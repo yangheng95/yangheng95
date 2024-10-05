@@ -1,5 +1,6 @@
-# [View My Profile](https://yangheng95.github.io/)
-## About Me 
+
+# [About Me]((https://yangheng95.github.io/))
+
 Hi there!
 I am a PhD student at the University of Exeter, specializing in genomics, bioinformatics, and Large Language Models (LLMs). My research includes biological sequence modeling, sentiment analysis, adversarial attacks, and open-source tool development. I’ve contributed to the field with **OmniGenomeBench** and **PyABSA**, and have published in leading conferences like ACL, EMNLP, CIKM, EACL, IEEE TSE, etc.
 
