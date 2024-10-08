@@ -7,20 +7,9 @@ I am a PhD student at the University of Exeter, specializing in genomics, bioinf
 
 I actively contribute to platforms like **GitHub** and **Hugging Face**, sharing tools like **FindFile**, **MetricVisualizer**, **BoostAug**. I’m committed to advancing AI and NLP while making these technologies accessible through open-source contributions.
 
-Expected to graduate in 2025 and open to new opportunities in academia and industry.
+I expect to graduate in 2025 and am open to new opportunities in academia and industry.
 
 ---
-
-## Contact
-Feel free to reach out to me via email or social media. I'm always open to new opportunities and collaborations.
-
-- Email: [hy345@exeter.ac.uk](mailto:hy345@exeter.ac.uk)
-- GitHub: [github.com/yangheng95](https://github.com/yangheng95)
-- LinkedIn: [linkedin.com/in/heng-yang-3b6278243](https://www.linkedin.com/in/heng-yang-3b6278243)
-- Hugging Face: [huggingface.co/yangheng](https://huggingface.co/yangheng)
-- Google Scholar: [scholar.google.com/citations?user=NPq5a_0AAAAJ&hl=en](https://scholar.google.com/citations?user=NPq5a_0AAAAJ&hl=en)
-- DBLP: [dblp.org/pid/83/415-8.html](https://dblp.org/pid/83/415-8.html)
-- ACL Anthology: [aclanthology.org/people/h/heng-yang](https://aclanthology.org/people/h/heng-yang)
 
 ---
 
@@ -89,4 +78,3 @@ A modularized framework for Aspect-Based Sentiment Analysis (ABSA). PyABSA simpl
 ## Community Contribution
 
 ![yangheng95 GitHub Stats](https://github-readme-stats.vercel.app/api?username=yangheng95&show_icons=true)  
-Profile Views: ![Profile Views](https://komarev.com/ghpvc/?username=yangheng95)
