@@ -3,13 +3,12 @@
 ## [About Me](https://yangheng95.github.io)
 
 Hi there!
+
 I am a PhD student at the University of Exeter, specializing in genomics, bioinformatics, and Large Language Models (LLMs). My research includes biological sequence modeling, sentiment analysis, adversarial attacks, and open-source tool development. I’ve contributed to the field with **OmniGenomeBench** and **PyABSA**, and have published in leading conferences like ACL, EMNLP, CIKM, EACL, IEEE TSE, etc.
 
 I actively contribute to platforms like **GitHub** and **Hugging Face**, sharing tools like **FindFile**, **MetricVisualizer**, **BoostAug**. I’m committed to advancing AI and NLP while making these technologies accessible through open-source contributions.
 
 I expect to graduate in 2025 and am open to new opportunities in academia and industry.
-
----
 
 ---
 
@@ -78,3 +77,5 @@ A modularized framework for Aspect-Based Sentiment Analysis (ABSA). PyABSA simpl
 ## Community Contribution
 
 ![yangheng95 GitHub Stats](https://github-readme-stats.vercel.app/api?username=yangheng95&show_icons=true)  
+
+Profile Views: ![Profile Views](https://komarev.com/ghpvc/?username=yangheng95)
