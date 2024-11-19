@@ -14,16 +14,16 @@ I expect to graduate in 2025 and am open to new opportunities in academia and in
 
 ## Publications
 
-- **[OmniGenomeBench: Automating Large-scale in-silico Benchmarking for Genomic Foundation Models](https://arxiv.org/abs/2410.01784)**  
+- **[OmniGenBench: Automating Large-scale in-silico Benchmarking for Genomic Foundation Models](https://arxiv.org/abs/2410.01784)**  
   *Heng Yang*, Jack Cole, Ke Li | Arxiv 2024
 
 - **[OmniGenome: Aligning RNA Sequences with Secondary Structures in Genomic Foundation Models](https://arxiv.org/abs/2407.11242)**  
   *Heng Yang*, Ke Li | Arxiv 2024
 
-- **[The Best Defense is Attack: Repairing Semantics in Textual Adversarial Examples](https://openreview.net/forum?id=gLcpCzxoiM)**  
+- **[The Best Defense is Attack: Repairing Semantics in Textual Adversarial Examples](https://aclanthology.org/2024.emnlp-main.481)**  
   *Heng Yang*, Ke Li | EMNLP 2024
 
-- **[MP-RNA: Unleashing Multi-species RNA Foundation Model via Calibrated Secondary Structure Prediction](https://openreview.net/forum?id=2ewzfedbQv)**  
+- **[MP-RNA: Unleashing Multi-species RNA Foundation Model via Calibrated Secondary Structure Prediction](https://aclanthology.org/2024.findings-emnlp.304)**  
   *Heng Yang*, Ke Li | EMNLP 2024
 
 - **[Modeling Aspect Sentiment Coherency via Local Sentiment Aggregation](https://aclanthology.org/2024.eacl-main.195)**  
