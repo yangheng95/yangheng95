@@ -15,37 +15,37 @@ I expect to graduate in 2025 and am open to new opportunities in academia and in
 ## Publications
 
 - **[PlantRNA-FM: An Interpretable RNA Foundation Model for Exploration Functional RNA Motifs in Plants Models](https://www.biorxiv.org/content/10.1101/2024.06.24.600509v1)**  
-  Haopeng Yu, *Heng Yang#*, Wenqing Sun, Zongyun Yan, Xiaofei Yang, Huakun Zhang, Yiliang Ding, Ke Li | Nature Machine Intelligence (Accepted, Co-first Autor) 
+  Haopeng Yu, **Heng Yang#**, Wenqing Sun, Zongyun Yan, Xiaofei Yang, Huakun Zhang, Yiliang Ding, Ke Li | Nature Machine Intelligence (Accepted, Co-first Autor) 
 
 - **[OmniGenBench: Automating Large-scale in-silico Benchmarking for Genomic Foundation Models](https://arxiv.org/abs/2410.01784)**  
-  *Heng Yang*, Jack Cole, Ke Li | Arxiv 2024
+  **Heng Yang**, Jack Cole, Ke Li | Arxiv 2024
 
 - **[OmniGenome: Aligning RNA Sequences with Secondary Structures in Genomic Foundation Models](https://arxiv.org/abs/2407.11242)**  
-  *Heng Yang*, Ke Li | Arxiv 2024
+  **Heng Yang**, Ke Li | Arxiv 2024
 
 - **[The Best Defense is Attack: Repairing Semantics in Textual Adversarial Examples](https://aclanthology.org/2024.emnlp-main.481)**  
-  *Heng Yang*, Ke Li | EMNLP 2024
+  **Heng Yang**, Ke Li | EMNLP 2024
 
 - **[MP-RNA: Unleashing Multi-species RNA Foundation Model via Calibrated Secondary Structure Prediction](https://aclanthology.org/2024.findings-emnlp.304)**  
-  *Heng Yang*, Ke Li | EMNLP 2024
+  **Heng Yang**, Ke Li | EMNLP 2024
 
 - **[Modeling Aspect Sentiment Coherency via Local Sentiment Aggregation](https://aclanthology.org/2024.eacl-main.195)**  
-  *Heng Yang*, Ke Li | EACL 2024
+  **Heng Yang**, Ke Li | EACL 2024
 
 - **[PyABSA: A Modularized Framework for Reproducible Aspect-based Sentiment Analysis](https://dl.acm.org/doi/abs/10.1145/3583780.3614752)**  
-  *Heng Yang*, Cheng Zhang, Ke Li | CIKM 2023
+  **Heng Yang**, Cheng Zhang, Ke Li | CIKM 2023
 
 - **[InstOptima: Evolutionary Multi-objective Instruction Optimization via Large Language Model-based Instruction Operators](https://aclanthology.org/2023.findings-emnlp.907)**  
-  *Heng Yang*, Ke Li | EMNLP 2023
+  **Heng Yang**, Ke Li | EMNLP 2023
 
 - **[Boosting Text Augmentation via Hybrid Instance Filtering Framework](https://aclanthology.org/2023.findings-acl.105)**  
-  *Heng Yang*, Ke Li | ACL 2023
+  **Heng Yang**, Ke Li | ACL 2023
 
 - **[DaNuoYi: Evolutionary Multi-Task Injection Testing on Web Application Firewalls](https://ieeexplore.ieee.org/document/10372386)**  
-  Ke Li, *Heng Yang* | IEEE TSE, 2023
+  Ke Li, **Heng Yang** | IEEE TSE, 2023
 
 - **[A Multi-task Learning Model for Chinese-oriented Aspect Polarity Classification and Aspect Term Extraction](https://www.sciencedirect.com/science/article/abs/pii/S0925231220312534)**  
-  *Heng Yang*, Biqing Zeng, et al. | Neurocomputing, 2021
+  **Heng Yang**, Biqing Zeng, et al. | Neurocomputing, 2021
 ---
 
 ## GitHub Projects
