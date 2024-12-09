@@ -14,8 +14,8 @@ I expect to graduate in 2025 and am open to new opportunities in academia and in
 
 ## Publications
 
-- **[PlantRNA-FM: An Interpretable RNA Foundation Model for Exploration Functional RNA Motifs in Plants Models](https://www.biorxiv.org/content/10.1101/2024.06.24.600509v1)**  
-  Haopeng Yu, **Heng Yang#**, Wenqing Sun, Zongyun Yan, Xiaofei Yang, Huakun Zhang, Yiliang Ding, Ke Li | Nature Machine Intelligence (Accepted, Co-first Autor) 
+- **[PlantRNA-FM: An Interpretable RNA Foundation Model for Exploration Functional RNA Motifs in Plants Models](https://www.nature.com/articles/s42256-024-00946-z)**  
+  Haopeng Yu, **Heng Yang#**, Wenqing Sun, Zongyun Yan, Xiaofei Yang, Huakun Zhang, Yiliang Ding, Ke Li | Nature Machine Intelligence (Co-first Autor) 
 
 - **[OmniGenBench: Automating Large-scale in-silico Benchmarking for Genomic Foundation Models](https://arxiv.org/abs/2410.01784)**  
   **Heng Yang**, Jack Cole, Ke Li | Arxiv 2024
