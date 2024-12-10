@@ -21,7 +21,7 @@ I expect to graduate in 2025 and am open to new opportunities in academia and in
   **Heng Yang**, Jack Cole, Ke Li | Arxiv 2024
 
 - **[OmniGenome: Aligning RNA Sequences with Secondary Structures in Genomic Foundation Models](https://arxiv.org/abs/2407.11242)**  
-  **Heng Yang**, Ke Li | Arxiv 2024
+  **Heng Yang**, Ke Li | AAAI 2025
 
 - **[The Best Defense is Attack: Repairing Semantics in Textual Adversarial Examples](https://aclanthology.org/2024.emnlp-main.481)**  
   **Heng Yang**, Ke Li | EMNLP 2024
