@@ -20,7 +20,7 @@ I expect to graduate in 2025 and am open to new opportunities in academia and in
 - **[OmniGenBench: Automating Large-scale in-silico Benchmarking for Genomic Foundation Models](https://arxiv.org/abs/2410.01784)**  
   **Heng Yang**, Jack Cole, Ke Li | Arxiv 2024
 
-- **[OmniGenome: Aligning RNA Sequences with Secondary Structures in Genomic Foundation Models](https://arxiv.org/abs/2407.11242)**  
+- **[Bridging Sequence-Structure Alignment in RNA Foundation Models](https://ojs.aaai.org/index.php/AAAI/article/view/35500)**  
   **Heng Yang**, Ke Li | AAAI 2025
 
 - **[The Best Defense is Attack: Repairing Semantics in Textual Adversarial Examples](https://aclanthology.org/2024.emnlp-main.481)**  
