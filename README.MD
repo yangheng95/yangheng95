@@ -3,9 +3,9 @@
 [![GitHub followers](https://img.shields.io/github/followers/yangheng95?style=social)](https://github.com/yangheng95)
 [![PyPI Packages](https://img.shields.io/badge/PyPI_Packages-8-green)](https://pypi.org/user/yangheng)
 ![PyPI Downloads](https://img.shields.io/badge/PyPI_Downloads-1.1_Millions-green)
-![Hugging Face Followers](https://img.shields.io/badge/Hugging_Face%20Followers-25-yellow)
-[![Hugging Face Downloads](https://img.shields.io/badge/Hugging_Face_Downloads-1.5_Millions-yellow)](https://huggingface.co/yangheng)
-[![Citations](https://img.shields.io/badge/Google_Scholar_Citations-625-blue)](https://scholar.google.com/citations?user=NPq5a_0AAAAJ&hl=en)
+![Hugging Face Followers](https://img.shields.io/badge/HF%20Followers-25-yellow)
+[![Hugging Face Downloads](https://img.shields.io/badge/HF_Downloads-1.5_Millions-yellow)](https://huggingface.co/yangheng)
+[![Citations](https://img.shields.io/badge/Scholar_Citations-625-blue)](https://scholar.google.com/citations?user=NPq5a_0AAAAJ&hl=en)
 
 ---
 
