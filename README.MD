@@ -26,6 +26,7 @@ A large-scale, in-silico benchmarking framework for genomic foundation models (G
 ### [PyABSA](https://github.com/yangheng95/PyABSA)
 A modularized framework for Aspect-Based Sentiment Analysis (ABSA). PyABSA provides pre-trained models and datasets to simplify sentiment analysis tasks for both research and production.
 - ![GitHub stars](https://img.shields.io/github/stars/yangheng95/PyABSA?style=social)
+- ![PyPI Downloads](https://img.shields.io/pypi/v/pyabsa)
 - ![PyPI Downloads](https://img.shields.io/pypi/dm/pyabsa)
 
 ---
